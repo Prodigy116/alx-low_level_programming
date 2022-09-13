@@ -1,4 +1,4 @@
-#include "main.h"
+#include "holberton.h"
 
 /**
 
@@ -14,7 +14,7 @@ int main(void)
 
 {
 
-	char *sh = "_putchar";
+	char *sh = "Holberton";
 
 
 
